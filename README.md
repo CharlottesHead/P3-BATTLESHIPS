@@ -1,31 +1,43 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+## Hello Code Institue
 
-Welcome USER_NAME,
+This is my submission for the third portfolio project. It's fundamentally a battleship game (see https://en.wikipedia.org/wiki/Battleship_(game) ) with some slight alterations to keep up the tempo and enhance replay ability.
 
-This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **August 17, 2021**
+## Start Game
 
-## Reminders
+Firstly, players are asked to place their battleships. The grid is 8*8 and each player has 5 ships ranging in length from 2 to 5 spaces long. Code has been written to prevent the player from placing ships overlapping each other.
 
-* Your code must be placed in the `run.py` file
-* Your dependencies must be placed in the `requirements.txt` file
-* Do not edit any of the other files or your code may not deploy properly
+![ScreenShot](assets/BATTLESHIP-1.png)
 
-## Creating the Heroku app
+![ScreenShot](assets/BATTLESHIP-CODE.png)
 
-When you create the app, you will need to add two buildpacks from the _Settings_ tab. The ordering is as follows:
+Note that in the first screenshot the CPU's board and ships are visible. This has been so during the process of programing the game for the purpose of debugging. On line 149 of the run.py file, there is a line of code commented out. Remove the hashtag and the CPU ships will be revealed as above.
 
-1. `heroku/python`
-2. `heroku/nodejs`
+Once ships are placed the main gameplay loop begins.
 
-You must then create a _Config Var_ called `PORT`. Set this to `8000`
+![ScreenShot](assets/BATTLESHIP-2.png)
 
-If you have credentials, such as in the Love Sandwiches project, you must create another _Config Var_ called `CREDS` and paste the JSON into the value field.
+The player is given frequent prompts to let them know exactly what is happening.
 
-Connect your GitHub repository and deploy as normal.
+![ScreenShot](assets/BATTLESHIP-3.png)
 
-## Constraints
+As it is the game is a race for the first to achieve 6 hits. I felt this to be an improvement over the standard formula, increasing the tempo of the game and encouraging replays while still being challenging.
 
-The deployment terminal is set to 80 columns by 24 rows. That means that each line of text needs to be 80 characters or less otherwise it will be wrapped onto a second line.
+![ScreenShot](assets/BATTLESHIP-5.png)
 
------
-Happy coding!
+## Testing
+
+I have passed the code through a pep8 linter and there are no problems.
+
+![ScreenShot](assets/PEP8.png)
+
+I have also tested it extensively by giving an incorrect command, imputing coordinates off grid and shooting the same location twice and at the time of writing this I can confirm there are no bugs.
+
+## Notes 
+Due to the inability to rely on gitpod to be available every day for me to work on my projects with I have taken to completing, to the largest extent, my projects locally on my laptop in Visual Studios. I feel that the risk of losing time in the morning, or sometime even a whole day, waiting for a workspace to open is not worth any supposed benefits that gitpod has to offer.
+
+## Credits
+https://www.pythoncheatsheet.org/
+
+https://docs.python.org/3/tutorial/
+
+https://en.wikipedia.org/wiki/Under_Siege
