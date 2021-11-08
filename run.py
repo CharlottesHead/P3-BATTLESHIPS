@@ -25,7 +25,6 @@ def place_ships(board):
                 if (check_fit(legnth, row, column, orientation) and
                     ship_overlaps(board, row, column, orientation,
                                   legnth) is False):
-                    # place ship
                     if orientation == "H":
                         for i in range(column, column + legnth):
                             board[row][i] = "X"
@@ -40,7 +39,6 @@ def place_ships(board):
                 if (check_fit(legnth, row, column, orientation) and
                         ship_overlaps(board, row, column, orientation,
                                       legnth) is False):
-                    # place ship
                     if orientation == "H":
                         for i in range(column, column + legnth):
                             board[row][i] = "X"
@@ -148,7 +146,7 @@ def turn(board):
 
 
 place_ships(CPU_BRD)
-print_board(CPU_BRD)  # Debugging REMOVE LATER
+# print_board(CPU_BRD)  # Debugging, remove note to show cpu ships
 print_board(PLR_BRD)
 place_ships(PLR_BRD)
 
