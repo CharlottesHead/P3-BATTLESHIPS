@@ -31,8 +31,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Screenshot](assets/BATTLESHIP-1.png) ![Screenshot](assets/BATTLESHIP-2.png) ![Screenshot](assets/BATTLESHIP-3.png) ![Screenshot](assets/BATTLESHIP-5.png) 
-![Screenshot](assets/BATTLESHIP-CODE.png) 
+![Screenshot](assets/BATTLESHIP-1.png) ![Screenshot](assets/BATTLESHIP-2.png) ![Screenshot](assets/BATTLESHIP-3.png) ![Screenshot](assets/BATTLESHIP-5.png) ![Screenshot](assets/BATTLESHIP-CODE.png) 
 
 ## Usage
 
