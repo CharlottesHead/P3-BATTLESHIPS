@@ -55,8 +55,34 @@ I have tested it extensively by giving an incorrect command, imputing coordinate
 The website has been tested on multiple browsers on different OS's with no issues found.
 It has also been tested on Android and iPhone devices, also clear of issues.
 
-## Notes 
-Due to the inability to rely on gitpod to be available every day for me to work on my projects with I have taken to completing, to the largest extent, my projects locally on my laptop in Visual Studios. I feel that the risk of losing time in the morning, or sometime even a whole day, waiting for a workspace to open is not worth any supposed benefits that gitpod has to offer.
+### Development Testing
+
+During the development process, It was tested in the following ways:-
+
+ - Manually testing each element by running it within VSCode.
+ 
+ - Passing it through PEP8 without any issues
+   
+ - Inviting friends to test and provide feedback.
+
+## Deployment
+
+### Heroku
+
+The project was deployed on Heroku at https://p3-battleship.herokuapp.com/
+
+### Forking the GitHub Repository
+
+By forking the GitHub Repository we make a copy of the original repository on
+our GitHub account to view and/or make changes without affecting the original
+repository by using the following steps...
+
+1. Log in to GitHub and locate the [GitHub
+   Repository](https://github.com/CharlottesHead/P3-BATTLESHIPS)
+1. At the top of the Repository (not top of page) just above the "Settings"
+   Button on the menu, locate the "Fork" Button.
+1. Click the button (not the number to the right) and you should now have a copy
+   of the original repository in your GitHub account.
 
 ## Credits
 https://www.pythoncheatsheet.org/
