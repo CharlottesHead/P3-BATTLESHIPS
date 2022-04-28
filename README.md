@@ -1,6 +1,37 @@
-## Hello Code Institue
+# Hello Code Institue
 
-This is my submission for the third portfolio project. It's fundamentally a battleship game (see https://en.wikipedia.org/wiki/Battleship_(game) ) with some slight alterations to keep up the tempo and enhance replay ability.
+This is my submission for the third portfolio project. It's fundamentally a battleship game with some slight alterations to keep up the tempo and enhance replay ability.
+
+## Table of Contents
+- [General Info](#general-information)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Usage](#usage)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Project Status](#project-status)
+- [Responsiveness](#project-status)
+- [Room for Improvement](#room-for-improvement)
+- [Acknowledgements](#acknowledgements)
+
+## General Information
+Battleships is a stratigic boardgame that has a long historic origin but is mostly know for the table top version made by board game company, Mitlon Bradley. It pits two players against each other trying to guess the location of their battleships on a hidden grid. This version however will be player vs AI.
+
+## Technologies Used
+- Tech 1 - Python
+- Tech 2 - html
+- Tech 3 - JavaScript
+
+## Features
+List the ready features here:
+- 8 * 8 grid.
+- 5 ship placements of varying length and orientation.
+- Realtime commentary.
+
+
+## Screenshots
+![Screenshot](assets/images/Screenshot-1.png) ![Screenshot](assets/images/Screenshot-2.png) ![Screenshot](assets/images/Screenshot-3.png)
 
 ## Start Game
 
