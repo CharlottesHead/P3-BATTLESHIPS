@@ -50,7 +50,10 @@ I have passed the code through a pep8 linter and there are no problems.
 
 ![ScreenShot](assets/PEP8.png)
 
-I have also tested it extensively by giving an incorrect command, imputing coordinates off grid and shooting the same location twice and at the time of writing this I can confirm there are no bugs.
+I have tested it extensively by giving an incorrect command, imputing coordinates off grid and shooting the same location twice and at the time of writing this I can confirm there are no bugs.
+
+The website has been tested on multiple browsers on different OS's with no issues found.
+It has also been tested on Android and iPhone devices, also clear of issues.
 
 ## Notes 
 Due to the inability to rely on gitpod to be available every day for me to work on my projects with I have taken to completing, to the largest extent, my projects locally on my laptop in Visual Studios. I feel that the risk of losing time in the morning, or sometime even a whole day, waiting for a workspace to open is not worth any supposed benefits that gitpod has to offer.
