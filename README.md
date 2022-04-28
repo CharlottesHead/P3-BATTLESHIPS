@@ -1,6 +1,6 @@
 # Hello Code Institue
 
-This is my submission for the third portfolio project. It's fundamentally a battleship game with some slight alterations to keep up the tempo and enhance replay ability.
+This is my submission for the third portfolio project. It's fundamentally a battleship game with some slight alterations to keep up the tempo and to enhance replay value.
 
 ## Table of Contents
 - [General Info](#general-information)
