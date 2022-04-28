@@ -62,7 +62,7 @@ During the development process, It was tested in the following ways:-
 
  - Manually testing each element by running it within VSCode.
  
- - Passing it through PEP8 without any issues
+ - Passing it through a pep8 linter to assure the code remained clean during the development process.
    
  - Inviting friends to test and provide feedback.
 
