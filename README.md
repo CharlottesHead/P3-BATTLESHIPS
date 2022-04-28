@@ -83,8 +83,22 @@ repository by using the following steps...
    Button on the menu, locate the "Fork" Button.
 1. Click the button (not the number to the right) and you should now have a copy
    of the original repository in your GitHub account.
+   
+## Project Status
 
-## Credits
+Complete but will update with improvements listed below.
+
+### Responsiveness
+
+The site is fully responsive, the app loads quickly and there is minimal lag.
+
+## Room for Improvement
+These are some of the features that will be rolled out with updates.
+
+- Some simple 8bit graphics and sound effects.
+- Multiplayer.
+
+## Acknowledgements
 https://www.pythoncheatsheet.org/
 
 https://docs.python.org/3/tutorial/
