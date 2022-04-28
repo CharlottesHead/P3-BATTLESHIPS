@@ -31,7 +31,8 @@ List the ready features here:
 
 
 ## Screenshots
-![Screenshot](assets/images/Screenshot-1.png) ![Screenshot](assets/images/Screenshot-2.png) ![Screenshot](assets/images/Screenshot-3.png)
+![Screenshot](assets/BATTLESHIP-1.png) ![Screenshot](assets/BATTLESHIP-2.png) ![Screenshot](assets/BATTLESHIP-3.png) ![Screenshot](assets/BATTLESHIP-5.png) 
+![Screenshot](assets/BATTLESHIP-CODE.png) ![Screenshot](assets/PEP8.png)
 
 ## Start Game
 
